@@ -1,5 +1,0 @@
-hello world
-======================
-.. toctree::
-
-   test

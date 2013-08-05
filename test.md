@@ -6,6 +6,8 @@
     * 평가자들이 대체 텍스트를 제대로 검출하는지 살펴본다.
     * 실습1의 일부 오류 중복 검출.
     * 보고서 작성 시 이런 동일한 오류는 하나로 작성한다.
+  * 이쯤에 iframe을 넣어볼까나
+    * <iframe width="420" height="315" src="http://www.youtube.com/embed/QH2-TGUlwu4" frameborder="0" allowfullscreen></iframe>
   * 3.html: 접근성이 전혀 고려되지 않은 웹 애플리케이션의 대체 텍스트 오류 갯수 산정하기.
     * 평가 하는 타이밍의 모수 및 에러 갯수를 가지고 계산하면 된다.
     * 매번 모수 및 에러 갯수가 바뀌는 건 어쩔 수 없는 일.
